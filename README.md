@@ -6,7 +6,7 @@
 
 #### Disciplina de Pensamento Computacional - 1º B
 
-**Projeto:** *Restaurante La Bella Verte*
+**Projeto:** *Escola Cataratas*
 
 ***participantes***
 
