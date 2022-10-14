@@ -1,4 +1,4 @@
-# Tancredo-1A-PensamentoComputacional
+# Tancredo-1B-PensamentoComputacional
 ## Projeto de site desenvolvido em HTML e CSS
 
 
