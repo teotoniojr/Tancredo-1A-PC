@@ -4,9 +4,9 @@
 
 ### Escola Estadual Cívico-Militar Tancredo Neves
 
-#### Disciplina de Pensamento Computacional - 1º A
+#### Disciplina de Pensamento Computacional - 1º B
 
-**Projeto:** *Restaurante NaVegano*
+**Projeto:** *Restaurante La Bella Verte*
 
 ***participantes***
 
