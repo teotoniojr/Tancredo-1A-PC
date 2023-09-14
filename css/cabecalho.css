@@ -1,0 +1,38 @@
+header {
+    padding: 24px;
+}
+.caixa {
+    display: inline;
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+}
+h3 {
+    text-align: left;
+}
+.imagem-logo {
+    width: 10%;
+    margin-left: 18px;
+    border-radius: 100%;
+    box-shadow: 2px 2px 2px #111111;
+}
+nav {
+    position: absolute;
+    top: 90px;
+    right: 65px;
+}
+nav a {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #111111;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav a:hover{
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 1px 1px  rgb(255, 255, 255);
+    color: #11033f;
+    transition: 0.5s;
+
+}

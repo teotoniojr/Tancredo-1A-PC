@@ -1,0 +1,14 @@
+.capa{
+    width: 100%;
+}
+.titulos h1 {
+    font-size: 64px;
+}
+.titulos h2 {
+    font-size: 48px;
+}
+.principal p {
+    font-size: 25px;
+    margin-left: 256px;
+    margin-right: 256px;
+}

@@ -1,0 +1,10 @@
+.espacos{
+    display: flex;
+    flex-direction: row;
+}
+
+.espacos li {
+    border: solid 2px #000;
+    
+}
+
